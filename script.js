@@ -1,4 +1,3 @@
-console.group();
-console.log("My first Repository");
-console.groupEnd();
+console.log("Hello World");
+
 
